@@ -1,2 +1,2 @@
 # AndroidDevelopmentPracticeMIREA
-practices
+Первая практика в ветке practice1
